@@ -33,6 +33,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Daniel_Garrison_Brinton
 description: The annals were written by a number of native authors including Francisco
   Hernández Arana Xajilá and Francisco Díaz Gebuta Quej.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20775#The-Annals-of-the-Cakchiquels
 gutenberg_issued: '2007-03-08'
 gutenberg_type: Text
 identifiers:
