@@ -1,0 +1,53 @@
+_repo: The-Annals-of-the-Cakchiquels_20775
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Díaz Gebuta Quej, Francisco, active 16th century
+    aliases:
+    - Diaz Gebuta Quej, Francisco
+    - Gebuta Quej, Francisco Díaz
+    - Quej, Francisco Díaz Gebuta
+    gutenberg_agent_id: '37159'
+    url: http://www.gutenberg.org/2009/agents/37159
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arana Xajilá, Francisco Hernández
+    aliases:
+    - Arana Xajila, Francisco Hernandez
+    - Xajilá, Francisco Hernández Arana
+    deathdate: 1581
+    gutenberg_agent_id: '37158'
+    url: http://www.gutenberg.org/2009/agents/37158
+  editor:
+    agent_name: Brinton, Daniel G. (Daniel Garrison)
+    aliases:
+    - Brinton, Daniel Garrison
+    - Brinton, D. G. (Daniel Garrison)
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '2993'
+    url: http://www.gutenberg.org/2009/agents/2993
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Garrison_Brinton
+description: The annals were written by a number of native authors including Francisco
+  Hernández Arana Xajilá and Francisco Díaz Gebuta Quej.
+gutenberg_issued: '2007-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20775'
+  lccn: 05014685
+language:
+- myn
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guatemala -- History -- To 1821'
+- !lcc 'PM'
+- !lcsh 'Cakchikel Indians'
+- !lcsh 'Cakchikel literature'
+title: The Annals of the Cakchiquels
+url: http://www.gutenberg.org/ebooks/20775
